@@ -1,2 +1,2 @@
-# CALCULO-IMC
-Calcular o IMC
+# Calculadora-IMC
+ 
